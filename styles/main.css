@@ -73,6 +73,12 @@ a:hover {
   margin-bottom: 0;
 }
 
+#about, #content {
+  background-color: rgba(0,0,0,0.05);
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
 
 /* Items and general positioning */
 

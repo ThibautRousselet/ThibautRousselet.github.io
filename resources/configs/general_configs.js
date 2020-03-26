@@ -11,6 +11,6 @@ const generalConfigs = {
       "en": "Engineering Student in Computer Science/Video Games"
     },
     "githubLink": "https://github.com/ThibautRousselet?tab=stars",
-    "linkedinLink": "coucs",
+    "linkedinLink": "https://www.linkedin.com/in/thibaut-rousselet-107884172/",
   }
 }
