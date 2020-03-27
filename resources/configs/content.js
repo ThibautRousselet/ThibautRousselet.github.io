@@ -19,7 +19,7 @@ const content = [
                 <br/>
                 This is the project of my Games Programming semester. It will be developed by a team of 5 people on Unity.
                  `,
-          "fr": `Ce jeu sera un shoot them up en 2D comprenant des éléments de Rogue Like avec des armes aléatoires à placer sur son vaisseau spatiale.<br/>
+          "fr": `Ce jeu sera un shoot them up en 2D comprenant des éléments de Rogue Like, notamment des armes aléatoires à placer sur son vaisseau spatiale.<br/>
                 <br/>
                 Ce projet constitue le rendu final de mon semestre de Games Programming. Il sera développé sous Unity.
                 `
@@ -42,7 +42,7 @@ const content = [
           "fr": "Hazardous job"
         },
         "description": {
-          "en": `Hazardous Job is a horror game in VR, where you have to pick up and deliver flasks in a zombie infested complex.<br/><br/>
+          "en": `Hazardous Job is a horror game in VR, where you have to pick up and deliver flasks in a zombie infested facility.<br/><br/>
                  It was developed by a group of 2 people in a VR class, using unity and an Oculus Rift S. <br/>
                  `,
           "fr": `Hazardous Job est un jeu d'horreur en VR, dans lequel vous incarnez un ouvrier contraint de livrer des fioles d'un coté à l'autre d'un complexe infesté de zombies.<br/><br/>
@@ -58,7 +58,7 @@ const content = [
         "fr": "Back To The Catan"
       },
       "description": {
-        "en": `This game is inspired by the famous board game Catan, this version is set in the world of the Back to the Future franchise and contains new gameplay features such as time travel<br/><br/>
+        "en": `This game is inspired by the famous board game Catan, this version is set in the world of the Back to the Future franchise and contains new gameplay features such as time travel.<br/><br/>
                It was developed by a group of 2 people in Java during an Object Oriented class. <br/>
                `,
         "fr": `Back To The Catan est une une version alternative du célèbre jeu de plateau Catan, se déroulant dans l'univers de Retour Vers Le Futur. Elle comprend des mécaniques inédites comme le voyage dans le temps.<br/><br/>
