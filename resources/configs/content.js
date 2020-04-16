@@ -50,7 +50,7 @@ const content = [
         },
         "date": "2019",
         "imagePath": "projects/project2.png",
-        "link": ""
+        "link": "https://github.com/ThibautRousselet/SampleUnityVR"
       },
       {
         "title": {
