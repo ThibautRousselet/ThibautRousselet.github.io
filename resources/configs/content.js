@@ -26,7 +26,7 @@ const content = [
         },
         "date": "2020",
         "imagePath": "projects/project1.png",
-        "link": ""
+        "link": "https://github.com/UTSam/SpaceshipRoguelike"
       }
     ]
   },
