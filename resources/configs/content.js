@@ -27,6 +27,25 @@ const content = [
         "date": "2020",
         "imagePath": "projects/project1.png",
         "link": "https://github.com/UTSam/SpaceshipRoguelike"
+      },
+      {
+        "title": {
+          "en": "Gang battle",
+          "fr": "Gang battle"
+        },
+        "description": {
+          "en": `This game is a turn-based strategy game on which I work during my free time. The goal is to conquer a city by invading territories with your troops.<br/>
+                <br/>
+                The project is still at an early stage of development but I aim to finish it this summer.
+                 `,
+          "fr": `Ce projet que je réalise pendant mon temps libre est un jeu de stratégie au tour par tour dans lequel vous devez conquérir des térritoires à l'aide de vos troupes.<br/>
+                <br/>
+                Ce projet est encore au stade de prototype mais j'espère le terminer durant cet été.
+                `
+        },
+        "date": "2020",
+        "imagePath": "projects/project5.png",
+        "link": "https://github.com/ThibautRousselet/GangBattle"
       }
     ]
   },
