@@ -6,7 +6,7 @@ const content = [
   {
     "categoryName": {
       "en": "Work in progress",
-      "fr": "Projet en cours"
+      "fr": "Projets en cours"
     },
     "content": [
       {
@@ -15,11 +15,11 @@ const content = [
           "fr": "Space rogue like"
         },
         "description": {
-          "en": `This untitled game will be a 2D shoot them up including rogue like elements such as random weapons that you can equip and mix.<br/>
+          "en": `This untitled game will be a 2D rogue like with shoot them up boss phases.<br/>
                 <br/>
                 This is the project of my Games Programming semester. It will be developed by a team of 5 people on Unity.
                  `,
-          "fr": `Ce jeu sera un shoot them up en 2D comprenant des éléments de Rogue Like, notamment des armes aléatoires à placer sur son vaisseau spatiale.<br/>
+          "fr": `Ce jeu sera un Rogue Like 2D, comprenant des phases de boss en shoot them up.<br/>
                 <br/>
                 Ce projet constitue le rendu final de mon semestre de Games Programming. Il sera développé sous Unity.
                 `
