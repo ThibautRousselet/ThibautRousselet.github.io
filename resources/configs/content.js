@@ -11,25 +11,6 @@ const content = [
     "content": [
       {
         "title": {
-          "en": "Space rogue like",
-          "fr": "Space rogue like"
-        },
-        "description": {
-          "en": `This untitled game will be a 2D rogue like with shoot them up boss phases.<br/>
-                <br/>
-                This is the project of my Games Programming semester. It will be developed by a team of 5 people on Unity.
-                 `,
-          "fr": `Ce jeu sera un Rogue Like 2D, comprenant des phases de boss en shoot them up.<br/>
-                <br/>
-                Ce projet constitue le rendu final de mon semestre de Games Programming. Il sera développé sous Unity.
-                `
-        },
-        "date": "2020",
-        "imagePath": "projects/project1.png",
-        "link": "https://github.com/UTSam/SpaceshipRoguelike"
-      },
-      {
-        "title": {
           "en": "Gang battle",
           "fr": "Gang battle"
         },
@@ -55,6 +36,29 @@ const content = [
       "fr": "Projets terminés"
     },
     "content": [
+      {
+        "title": {
+          "en": "Saving Private Patrick",
+          "fr": "Saving Private Patrick"
+        },
+        "description": {
+          "en": `This game is a 2D rogue like with shoot them up boss phases.<br/>
+                <br/>
+                This is the project of my Games Programming semester. It will be developed by a team of 5 people on Unity.<br/>
+                <br/>
+                Check out the trailer : https://www.youtube.com/watch?v=Hs0L2jrcoiE&ab_channel=JellevanUrk
+                 `,
+          "fr": `Ce jeu est un Rogue Like 2D, comprenant des phases de boss en shoot them up.<br/>
+                <br/>
+                Ce projet constitue le rendu final de mon semestre Erasmus en Games Programming.<br/>
+                <br/>
+                Trailer disponible ici : https://www.youtube.com/watch?v=Hs0L2jrcoiE&ab_channel=JellevanUrk
+                `
+        },
+        "date": "2020",
+        "imagePath": "projects/project1.png",
+        "link": "https://github.com/UTSam/SpaceshipRoguelike"
+      },
         {
           "title": {
           "en": "Hazardous job",
