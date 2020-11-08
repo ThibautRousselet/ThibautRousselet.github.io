@@ -46,13 +46,13 @@ const content = [
                 <br/>
                 This is the project of my Games Programming semester. It will be developed by a team of 5 people on Unity.<br/>
                 <br/>
-                Check out the trailer : https://www.youtube.com/watch?v=Hs0L2jrcoiE&ab_channel=JellevanUrk
+                Check out the trailer <a href='https://www.youtube.com/watch?v=Hs0L2jrcoiE&ab_channel=JellevanUrk'>here</a>
                  `,
           "fr": `Ce jeu est un Rogue Like 2D, comprenant des phases de boss en shoot them up.<br/>
                 <br/>
                 Ce projet constitue le rendu final de mon semestre Erasmus en Games Programming.<br/>
                 <br/>
-                Trailer disponible ici : https://www.youtube.com/watch?v=Hs0L2jrcoiE&ab_channel=JellevanUrk
+                Trailer disponible <a href='https://www.youtube.com/watch?v=Hs0L2jrcoiE&ab_channel=JellevanUrk'>Ici</a>
                 `
         },
         "date": "2020",
