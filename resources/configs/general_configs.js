@@ -5,7 +5,7 @@
 const generalConfigs = {
   "aboutSection": {
     "me": "Thibaut Rousselet",
-    "image": "me.png",
+    "image": "me.jpg",
     "myDescription": {
       "fr": "Etudiant Ingénieur Informatique/Jeux Vidéo",
       "en": "Engineering Student in Computer Science/Video Games"

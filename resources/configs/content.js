@@ -11,22 +11,41 @@ const content = [
     "content": [
       {
         "title": {
-          "en": "Gang battle",
-          "fr": "Gang battle"
+          "en": "Plane Mobile Game",
+          "fr": "Jeu Mobile d'Avions"
         },
         "description": {
-          "en": `This game is a turn-based strategy game on which I work during my free time. The goal is to conquer a city by invading territories with your troops.<br/>
+          "en": `I am currently working on this project as part of my Unity graduating internship.<br/>
                 <br/>
-                The project is still at an early stage of development but I aim to finish it this summer.
+                The goal of this game is to control the air traffic by guiding planes in an airport with your finger.
                  `,
-          "fr": `Ce projet que je réalise pendant mon temps libre est un jeu de stratégie au tour par tour dans lequel vous devez conquérir des térritoires à l'aide de vos troupes.<br/>
+          "fr": `Je travaille actuellement sur ce projet dans le cadre de mon stage de fin d'étude sur Unity<br/>
                 <br/>
-                Ce projet est encore au stade de prototype mais j'espère le terminer durant cet été.
+                Le but du jeu est de gérer le traffic aérien d'un aéroport en guidant des avions à l'aide de son doigt.
+                `
+        },
+        "date": "Release in early 2021",
+        "imagePath": "projects/project5.png",
+        "link": ""
+      },
+      {
+        "title": {
+          "en": "Retro Car Game",
+          "fr": "Jeu de Voiture Retro"
+        },
+        "description": {
+          "en": `Car game prototype with a retro synthwave aesthetic.<br/>
+                <br/>
+                I work on this project on my free time and created all the models and materials on Blender.
+                 `,
+          "fr": `Prototype de jeu de voiture à l'esthétique retro synthwave<br/>
+                <br/>
+                Je travaille sur ce projet lors de mon temps libre et je réalise tous les modèles sur Blender.
                 `
         },
         "date": "2020",
-        "imagePath": "projects/project5.png",
-        "link": "https://github.com/ThibautRousselet/GangBattle"
+        "imagePath": "projects/RetroCarGame.gif",
+        "link": ""
       }
     ]
   },
@@ -44,25 +63,62 @@ const content = [
         "description": {
           "en": `This game is a 2D rogue like with shoot them up boss phases.<br/>
                 <br/>
-                This is the project of my Games Programming semester. It will be developed by a team of 5 people on Unity.<br/>
+                This is the project of my Games Programming semester. It was developed by a team of 5 people on Unity.<br/>
                 <br/>
-                Check out the trailer <a href='https://www.youtube.com/watch?v=Hs0L2jrcoiE&ab_channel=JellevanUrk'>here</a>
+                Check out the trailer <a href='https://www.youtube.com/watch?v=Hs0L2jrcoiE&ab_channel=JellevanUrk'><u>here</u></a>
                  `,
           "fr": `Ce jeu est un Rogue Like 2D, comprenant des phases de boss en shoot them up.<br/>
                 <br/>
-                Ce projet constitue le rendu final de mon semestre Erasmus en Games Programming.<br/>
+                Le projet constitue le rendu final de mon semestre Erasmus en Games Programming et a été réalisé par 5 personnes.<br/>
                 <br/>
-                Trailer disponible <a href='https://www.youtube.com/watch?v=Hs0L2jrcoiE&ab_channel=JellevanUrk'>Ici</a>
+                Trailer disponible <a href='https://www.youtube.com/watch?v=Hs0L2jrcoiE&ab_channel=JellevanUrk'><u>ici</u></a>
                 `
         },
         "date": "2020",
         "imagePath": "projects/project1.png",
         "link": "https://github.com/UTSam/SpaceshipRoguelike"
       },
+      {
+        "title": {
+          "en": "AR Car Game",
+          "fr": "Jeu de voiture en AR"
+        },
+        "description": {
+          "en": `This mobile game lets you drive a car anywhere thanks to AR technology.<br/>
+                <br/>
+                I created this project with Unity and AR fundation and the Android build can be downloaded
+                 <a href='https://github.com/ThibautRousselet/ARCarUnity/releases/tag/v1.0'><u>here</u>.<br/>
+                 `,
+          "fr": `Ce petit jeu mobile vous permet de conduire une voiture n'importe où à l'aide de la réalité augmenté.<br/>
+                <br/>
+                J'ai réalisé ce projet à l'aide de Unity et d'AR fundation, le build Android peut être téléchargé
+                 <a href='https://github.com/ThibautRousselet/ARCarUnity/releases/tag/v1.0'><u>ici</u>.<br/>
+                `
+        },
+        "date": "2020",
+        "imagePath": "projects/ARCar_Video_ThibautRousselet.gif",
+        "link": "https://github.com/ThibautRousselet/ARCarUnity"
+      },
+      {
+        "title": {
+        "en": "Maze Generator",
+        "fr": "Générateur de Labyrinthe"
+      },
+      "description": {
+        "en": `This generator creates perfect mazes of any size<br/><br/>
+               You can try out the web version <a href='https://thibautrousselet.github.io/MazeGenerator/'><u>here</u>.<br/>
+               `,
+        "fr": `Ce générateur peut créer des labyrinthes parfaits de la taille souhaitée<br/><br/>
+               La version web est accessible  <a href='https://thibautrousselet.github.io/MazeGenerator/'><u>ici</u>.<br/>`
+      },
+      "date": "2019",
+      "imagePath": "projects/MazeGenerator.gif",
+      "link": "https://thibautrousselet.github.io/MazeGenerator/"
+    },
         {
           "title": {
-          "en": "Hazardous job",
-          "fr": "Hazardous job"
+          "en": "Hazardous Job",
+          "fr": "Hazardous Job"
         },
         "description": {
           "en": `Hazardous Job is a horror game in VR, where you have to pick up and deliver flasks in a zombie infested facility.<br/><br/>
