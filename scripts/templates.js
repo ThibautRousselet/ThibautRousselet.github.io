@@ -16,7 +16,7 @@ function createAboutSection(params, lang) {
           <a href="${params.githubLink}" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>&nbsp;
           <a href="${params.linkedinLink}" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
         </p>
-        <a href="${params.CVLink}" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+        <a href="${params.CVLink[lang]}" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
       </div>
     </div>
   `
