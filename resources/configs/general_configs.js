@@ -12,5 +12,9 @@ const generalConfigs = {
     },
     "githubLink": "https://github.com/ThibautRousselet?tab=stars",
     "linkedinLink": "https://www.linkedin.com/in/thibaut-rousselet-107884172/",
+    "CVLink": {
+      "fr": "ThibautRousselet.github.io/resources/CV/CV_Thibaut_Rousselet_FRA.pdf",
+      "en": "ThibautRousselet.github.io/resources/CV/CV_Thibaut_Rousselet_ENG.pdf"
+    },
   }
 }
