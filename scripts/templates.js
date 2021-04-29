@@ -16,12 +16,12 @@ function createAboutSection(params, lang) {
           <a href="${params.githubLink}" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>&nbsp;
           <a href="${params.linkedinLink}" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
         </p>
-        <a href="${params.CVLink[lang]}" target="_blank">CV (pdf)</a>
       </div>
     </div>
   `
 }
-
+/* Former CV display */
+/* <a href="${params.CVLink[lang]}" target="_blank">CV (pdf)</a> */
 
 /**
  * Returns the html of an item given its parameters and the given language

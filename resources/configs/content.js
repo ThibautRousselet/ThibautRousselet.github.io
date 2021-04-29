@@ -28,25 +28,6 @@ const content = [
         "imagePath": "projects/project5.png",
         "link": ""
       },
-      {
-        "title": {
-          "en": "Retro Car Game",
-          "fr": "Jeu de Voiture Retro"
-        },
-        "description": {
-          "en": `Car game prototype with a retro synthwave aesthetic.<br/>
-                <br/>
-                I work on this project on my free time and created all the models and materials on Blender.
-                 `,
-          "fr": `Prototype de jeu de voiture à l'esthétique retro synthwave<br/>
-                <br/>
-                Je travaille sur ce projet lors de mon temps libre et je réalise tous les modèles sur Blender.
-                `
-        },
-        "date": "2020",
-        "imagePath": "projects/RetroCarGame.gif",
-        "link": ""
-      }
     ]
   },
   {
@@ -55,6 +36,27 @@ const content = [
       "fr": "Projets terminés"
     },
     "content": [
+      {
+        "title": {
+          "en": "Hyper Casual Delta Game",
+          "fr": "Jeu de deltaplane Hyper Casual"
+        },
+        "description": {
+          "en": `Maximize your speed by diving and picking booster.<br/>
+                <br/>
+                I focused on fitting the hyper casual visuals and adding a lot of feedbacks to the user. I made this game with Unity and android build can be downloaded 
+                <a href='https://drive.google.com/file/d/1OXhu8lSHUsNUxG7BKFkO_Hqhq3IltRN7/view?usp=sharing'><u>here</u></a>.
+                 `,
+          "fr": `Plonger et ramasser des boosters permet de maximiser sa vitesse dans ce jeu de deltaplane.<br/>
+                <br/>
+                J'ai essayé de reproduire l'esthétique hyper casual et d'ajouter des feedbacks visuels et sonores. J'ai réalisé ce jeu sous unity et le build android est disponible 
+                <a href='https://drive.google.com/file/d/1OXhu8lSHUsNUxG7BKFkO_Hqhq3IltRN7/view?usp=sharing'><u>ici</u></a>.
+                `
+        },
+        "date": "2021",
+        "imagePath": "projects/DeltaRace.gif",
+        "link": "https://drive.google.com/file/d/1OXhu8lSHUsNUxG7BKFkO_Hqhq3IltRN7/view?usp=sharing"
+      },
       {
         "title": {
           "en": "Saving Private Patrick",
